@@ -1,0 +1,10 @@
+[package]
+name = "signature"
+version = "0.1.0"
+authors = ["Mutex <31218125+mutex-w@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+hmac = "0.7.0"
+sha2 = "0.8.0"
+base64 = "0.10.1"
